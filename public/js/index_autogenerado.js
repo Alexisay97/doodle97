@@ -1,6 +1,6 @@
 
 var app = {
-    serverUrl:'https://equisgame.herokuapp.com/',
+    serverUrl:'https://doodle97.herokuapp.com/',
     // Application Constructor
     initialize: function() {
         this.bindEvents();
